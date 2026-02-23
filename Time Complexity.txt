@@ -1,0 +1,7 @@
+Time Complexity:
+1.Time complexity depends on input size 
+2.the program takes how much time to run
+3.looping call, Method call, O(n),O(n^2),O(n^3),O(n/2),
+O(log n:reduce input into half),O(nlogn:input Splits and run to reduce time complexity)
+@unsorted Array = Linear Search;
+

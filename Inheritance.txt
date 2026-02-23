@@ -1,0 +1,23 @@
+Inheritance:
+>inheritance is a fundamental concept in oops.
+>it is the mechanism in java by which one class is allowed to inherit the features
+(fields and method)of another method.
+>inheritance means creating the new classes based on the existing once, the class that inherit that another class can reuse the methods
+and fields of the class.
+
+How inherit works in java:
+>The extends keywords is used for inheritance in java it enables the subclass inherit to fields and the methods of the super class(parent class), when a class extends another class it means it inherits all the non-primitive members(fields and methods)of the parent class and 
+the subclass can also overwrite or new functionality to that.
+types:
+single, multilevel , hierarchical , multiple , Hybrid.
+*Single:
+>in single inheritance a subclass is derived from or only one super class or only one parent class. 
+>it inherit the property and behaviour of a single parent class.
+
+*Multilevel inheritance:
+>A multilevel inheritance is based on the derived  class acts as a base classes for the another classes
+*hierarchical:
+>more than one subclass is inherited from a single baseclass.
+>ex:more than one dreived class is created from in single baseclass.for ex, cars and busses both are vehicles
+*Multiple inheritance
+> Mli can have more than one superclass and inherit to features from all parent class. 

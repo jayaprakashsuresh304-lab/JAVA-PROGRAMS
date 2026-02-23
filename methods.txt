@@ -1,0 +1,26 @@
+methods--> (Set of code),code reusability:
+|_>pre-defined methods:
+|_>user-defined methods:
+-->definition/call
+|_>public static/non static return type/non return type(single value):
+method name:()
+public static int sum(){}
+declaration:
+public static int sum(){
+ //definition
+}
+sum(10,20)-->method calling
+parameters: int sum(int a, int b);
+values in the parameters:(10,20)--arguments;
+Pre-defined(methods);
+-->max()
+-->min()
+-->println()
+-->()-these symbol notates the pre-defined method;
+user-defined(methods);
+:with argument with return
+:with argument without return
+:without argument with return
+:without argument without return
+
+
